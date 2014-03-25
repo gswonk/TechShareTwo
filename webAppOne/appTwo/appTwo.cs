@@ -13,6 +13,16 @@ namespace appTwo
         static void Main(string[] args)
         {
             Debug.Print("<appTwo git='Revision information'/>");
+
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
+            Debug.Print( "<debug msg='Here are some changes...'/>")
         }
     }
 }
