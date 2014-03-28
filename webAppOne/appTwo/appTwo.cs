@@ -21,8 +21,6 @@ namespace appTwo
             Debug.Print( "<debug msg='Here are some changes...'/>");
             Debug.Print( "<debug msg='Here are some changes...'/>");
             Debug.Print( "<debug msg='Here are some changes...'/>");
-            Debug.Print( "<debug msg='Here are some changes...'/>");
-            Debug.Print( "<debug msg='Here are some changes...'/>");
         }
     }
 }
